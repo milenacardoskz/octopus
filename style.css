@@ -7,9 +7,18 @@ body{
 }
 
 .chamada{
-    background: blueviolet;
+    background: burlywood;
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+header{
+   color:blanchedalmond;
+   font-size: 40px;
+   margin-bottom: 3px;
+   padding: 20px;
+}
+.chamada{
+    margin-right: 5%;
 }
